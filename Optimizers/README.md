@@ -9,4 +9,4 @@ Optimization algorithms are essential for finding the optimal set of parameters 
 
   -Adam: An adaptive optimization algorithm that dynamically adjusts the learning rate for each parameter based on past gradients. Adam combines the benefits of AdaGrad and RMSprop to provide efficient and effective      optimization.
 
-![Optimizers](optimizers.gif)
+![Optimizers](Optimizers.gif)
