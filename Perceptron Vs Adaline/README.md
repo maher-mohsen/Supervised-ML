@@ -1,4 +1,4 @@
-#Perceptron Vs Adaline
+# Perceptron Vs Adaline
 Both the Perceptron and Adaline are linear classification algorithms, but they employ different strategies for updating the model weights during training:
 
   -Perceptron: The Perceptron algorithm uses a step function as the activation function. It updates the weights based on the misclassified samples until all samples are classified correctly or a maximum number of iterations is reached. The Perceptron focuses on finding a linear decision boundary that separates the two classes.
